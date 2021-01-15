@@ -5,7 +5,7 @@
 1. We'll discuss about the important things for the week
 2. We'll have a short Q&A
 3. You'll get into your teams and run through the [project setup](#project-setup)
-4. You'll start reaching for the Cloud! Follow the 
+4. You'll start reaching for the Cloud! Follow the [specification file](https://github.com/makersacademy/devops-course/blob/main/hello-cloud-world/specification.md) to find out more!
 
 ## Overview of the week
 - You'll work in teams to build and deploy your first containerised application to the Cloud! (I'll announce the teams on Slack.)
