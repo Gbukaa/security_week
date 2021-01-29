@@ -41,13 +41,10 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 4. Make a copy for your group of this [Trello board](https://trello.com/b/HhaVoFhW/acebook-on-aws-week-3).
 5. Work through the cards on the board and have fun!
 
-### AWS ECS
+### Bonus: Amazon ECS
 
-If we have time this week, we'll have a session about ECS (Elastic Container Service) on AWS and we will work with the following [project](). Amazon ECS is a fully managed Container Orchestration Service.
+If we have time this week, we'll have a [session](https://github.com/makersacademy/devops-course/blob/main/workshops/week-3/amazon_ecs.md) about ECS (Elastic Container Service) on AWS.
 
 ### Supporting Materials
 
 You can find the different supporting materials on the specific Trello board cards.
-
-### Additional Resources
-- ECS.. [TBC]
