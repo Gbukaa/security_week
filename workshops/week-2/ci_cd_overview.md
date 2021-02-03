@@ -17,7 +17,7 @@ And we only realise once it's too late and the app is in production
 ```
 
 ```
-- When new developers are onboarding, they usually find it a bit difficult to navigate our codebase
+When new developers are onboarding, they usually find it a bit difficult to navigate our codebase
 for different reasons: different spacing in different Java classes,
 unclear naming in some functions, not having a clear standard when writing code,
 lines of code that are too long and, most worringly, leaving API keys commented out in some files
