@@ -11,7 +11,7 @@
 ## Overview of the week
 - You'll work in teams to build and deploy your first containerised application to the Cloud! (Your coach will announce the teams on Slack.)
 - You'll organise your own work based on the goals for the week
-- There will be an optional session on Thursday to discuss Logging and Telemetry
+- You will demo your group work on a session that will take place Friday
 - There will be a retro on Friday
 
 ## Goals for the week
@@ -32,7 +32,7 @@ Finally, you should be also able to understand what the following concepts are a
 
 1. One member in your group, create a GitHub repo for your Hello Cloud World! project.
 2. Add the other members of your group as collaborators.
-3. Create a simple Node.js project on Express. The idea is for you to choose what you would like to render on the page and see on the web when your application is on the cloud. Choose something that you'd like to show to your friends!
+3. Create a simple Node.js project using Express. The idea is for you to choose what you would like to render on the page and see on the web when your application is on the cloud. Choose something that you'd like to show to your friends!
 
 ### Supporting Materials
 
