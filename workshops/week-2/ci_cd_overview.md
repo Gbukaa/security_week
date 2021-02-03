@@ -12,19 +12,27 @@
 You surely remember Albus, our new product owner. Together with Severus (our Tech Lead), they have collected some evidence based on feedback from different teams and departments in the company.
 
 ```
-- Sometimes, developers forget to run the tests for the application before shipping a new realise of it. And we only realise once it's too late and the app is in production
+Sometimes, developers forget to run the tests for the application before shipping a new realise of it.
+And we only realise once it's too late and the app is in production
 ```
 
 ```
-- When new developers are onboarding, they usually find it a bit difficult to navigate our codebase for different reasons: different spacing in different Java classes, unclear naming in some functions, not having a clear standard when writing code, lines of code that are too long and, most worringly, leaving API keys commented out in some files
+- When new developers are onboarding, they usually find it a bit difficult to navigate our codebase
+for different reasons: different spacing in different Java classes,
+unclear naming in some functions, not having a clear standard when writing code,
+lines of code that are too long and, most worringly, leaving API keys commented out in some files
 ```
 
 ```
-- At the moment, there is no way to know when code is good to be merged against the main branch on GitHub apart from manual code reviews from peers. Could this be improved?
+At the moment, there is no way to know when code is good to be merged against
+the main branch on GitHub apart from manual code reviews from peers.
+Could this be improved?
 ```
 
 ```
-- The cybersecurity team has raised a couple of times now that sometimes we use dependencies that have vulnerabilities (ranging from low to extreme) in our codebase. How do we spot these without asking devs to check each of them one by one?
+The cybersecurity team has raised a couple of times now that sometimes we use dependencies
+that have vulnerabilities (ranging from low to extreme) in our codebase.
+How do we spot these without asking devs to check each of them one by one?
 ```
 
 In pairs, your task will be to come up with possible solutions that you would include as part of your CI job within your pipeline.
