@@ -5,6 +5,7 @@
 - Week 1: [Hello Cloud World!](https://github.com/makersacademy/devops-course/blob/main/hello-cloud-world/)
 - Week 2: [Serverless CI-CD](https://github.com/makersacademy/devops-course/blob/main/serverless-cicd/)
 - Week 3: [Acebook on AWS](https://github.com/makersacademy/devops-course/blob/main/acebook-on-aws/)
+- Week 4: [Terraform and Azure](https://github.com/makersacademy/devops-course/blob/main/terraform-and-azure/)
 
 
 ## Makers Academy - The Company
