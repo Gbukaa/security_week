@@ -9,7 +9,7 @@ At Makers Academy, we worked hard to figure out what needs to be learned in what
 By the end of this course, you should feel more comfortable in:
 - Applying an understanding of modern architectures
 - Applying best-practice DevOps techniques
-- Applying an understanding of the three main Cloud providers
+- Applying an understanding of at least two out of the three main Cloud providers
 - Applying a specialist understanding of a nominated Cloud provider
 - Applying an understanding of connectivity and security issues
 - Evangelising Cloud culture within a team!
