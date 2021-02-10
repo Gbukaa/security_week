@@ -44,11 +44,15 @@ In pairs, your task will be to come up with possible solutions that you would in
 Minerva, one of our business analysts has had some thoughts on some improvements that may be useful for the team and that right now make her daily job a bit hard. Could they be achieved?
 
 ```
-- Trying to allocate metrics to specific application versions because she needs to match the metrics dates and check when the different revisions of the application were deployed.
+Trying to allocate metrics to specific application versions
+because she needs to match the metrics dates
+and check when the different revisions of the application were deployed.
 ```
 
 ```
-- Sometimes she would like to have a play around with the application before it's deployed in production, without impacting real customers. How could this be done and how could CD be helpful?
+Sometimes she would like to have a play around with the application
+before it's deployed in production, without impacting real customers.
+How could this be done and how could CD be helpful?
 ```
 
 ### Core concepts from CI-CD
