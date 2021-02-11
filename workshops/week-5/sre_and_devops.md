@@ -18,8 +18,8 @@ Minerva highlighted this in one of our meetings to convince the team to start ad
 
 - What thoughts come to your mind when analysing the image above?
 - What are the differences and resemblances between SRE and DevOps?
+- What sort of knowledge or skills should that person have and grow (through training, progression...)?
 - Whart sort of tasks will the new SRE be involved in within our team?
-- What sort of knowledge or skills should that person have and grow (training, progression...)?
 
 
 ### Key Concepts and Terminology
