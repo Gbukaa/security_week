@@ -1,0 +1,22 @@
+version: "2"
+
+services:
+  server:
+    build: ./services/server
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    container_name: app-server
+
+  client:
+    build: ./services/client
+    ports:
+      - "80:80"
+    container_name: app-client
+
+  db:
+    image: mongo
+    ports:
+      - "27017:27017"
+    container_name: app-db
