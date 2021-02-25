@@ -6,7 +6,7 @@
 - Week 2: [Serverless CI-CD](https://github.com/makersacademy/devops-course/blob/main/serverless-cicd/)
 - Week 3: [Acebook on AWS](https://github.com/makersacademy/devops-course/blob/main/acebook-on-aws/)
 - Week 4: [Terraform and Azure](https://github.com/makersacademy/devops-course/blob/main/terraform-and-azure/)
-
+- Weeks 5-6: Coming Soon!
 
 ## Makers Academy - The Company
 
