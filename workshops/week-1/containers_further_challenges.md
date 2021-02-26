@@ -41,6 +41,15 @@ In order to do this, follow the `Docker Hub Quickstart` resource provided below 
 - Can you find an analogy for Docker Hub from a common tool you use?
 - And what about a Docker Image?
 
+:thinking: We won't user a `Dockerfile` this time, as suggested in the `Docker Hub Quickstart` guide. Instead, your task will be to create an image locally based on your successfully running container and push it to `Docker Hub`. 
+
+:star: You can do this! The following hints should help:
+- How can we **commit** an image locally based on a running container?
+- How can you then see your list of images? It'd be great to tag the image you just committed with a meagninful name.
+- Ideally you'll want to stop the nginx container that was just running and start a new one based on the image you just committed. Is everything running as expected?
+- If so, what should we do next with our image so that others can use it on their machines?
+- Remember to run one last test: once the image can be accessed publicly, remove all associated images and containers running locally and try to run a container with the remote image you just pushed.
+
 ### Bonus challenge
 
 If you have some extra time, share the images with your cohort peers and pull them from Docker Hub in order to run containers from images created by other pairs!
