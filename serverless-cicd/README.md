@@ -8,9 +8,9 @@
 
 ## Overview of the week
 
-- You'll work in teams to build your own CI-CD solution and to deploy a static website which will consume an AWS Lambda (Your coach will announce the teams on Slack.)
+- You'll work in teams to build your own CI-CD solution using Jenkins, and also to deploy a static website which will consume an AWS Lambda (Your coach will announce the teams on Slack.)
 - You'll organise your own work based on the goals for the week
-- There will be a session about CI-CD and another one to discuss about Serverless
+- There will be a session about CI-CD and another one about Serverless
 - You will demo your group work on a session that will take place Friday
 - There will be a retro on Friday
 
