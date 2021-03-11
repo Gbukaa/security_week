@@ -2,7 +2,9 @@
 
 So by now you should have a working Express project that you should have tested in your local machine. Awesome!
 
-:pencil2: Now, in your groups, it's time to diagram! Think about where you are now (`A`, well, maybe `B` as you have created your Express app!) and where you'd like to get (`Z`, i.e. the Cloud).
+:pencil2: Now, in your groups, it's time to diagram! 
+
+Create a timeline diagram that should include (starting with your Express app and finishing with the Cloud :cloud:) the different technologies and tools that are part of your project. 
 
 Add the missing pieces in between to create the full picture:
 - Are you thinking of pushing this local project to GitHub repository? Why or why not?
