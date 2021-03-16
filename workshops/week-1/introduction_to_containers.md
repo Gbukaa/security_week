@@ -23,6 +23,7 @@ I propose the team to work on a proof of concept to launch a container locally
 ```
 
 In this exercise, you will work in pairs to launch an Nginx container, just like you have seen in the demo.
+
 However, there are some tasks to be done:
 - You will need to modify and copy the `nginx-container-challenge.html` [file](https://github.com/makersacademy/devops-course/blob/main/workshops/week-1/nginx-container-challenge.html) into the container. 
 The file to be served by Nginx should be placed in `/usr/www`
