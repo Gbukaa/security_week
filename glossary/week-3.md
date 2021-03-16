@@ -11,7 +11,7 @@ A deployment service provided by AWS which automates app deployments to a bunch 
 EC2 is a web service used for compute purposes in the cloud. We, as users, manage all aspects of it: scalability, configuration, access...
 
 ## [Security Group (AWS)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html)
-You should think of a Security Group as a virtual firewall that allows us to control what sort of traffic gets and goes out of our EC2 instance. We normally add Custom TCP rules bound to a specific port (3000 for this week) and allow all IPs to access our instance publicly over the Internet (0.0.0.0/0)
+You should think of a Security Group as a virtual firewall that allows us to control what sort of traffic gets in and goes out of our EC2 instance. We normally add Custom TCP rules bound to a specific port (3000 for this week) and allow all IPs to access our instance publicly over the Internet (0.0.0.0/0)
 
 ---
 
