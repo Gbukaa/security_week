@@ -28,14 +28,14 @@ Your jobs, in order of priority:
 2. Increase the reliability of the system and ensure no security breaches.
 3. Implement some improvements to the system.
 
-The hitch? You don't have the code yet. It's supposed to be coming later this week but the vendor have been dragging their heels. You do, however, have API documentation and access to the load balancer through which all the traffic passes.
+The hitch? You don't have the code yet. It's supposed to be coming later this week but the vendor has been dragging their heels. You do, however, have API documentation and access to the load balancer through which all the traffic passes.
 
 ## Your reliability targets
 
 * Your system should respond to 99% of user requests successfully over the duration of this project.
 * No security breaches.
 
-We will track the successful request response rate on [this dashboard](http://reliability-panel.mkrs.link/). Requests that don't come from the users won't affect towards this, but be mindful that your requests don't add harmful load to the upstream server.
+We will track the successful request response rate on [this dashboard](http://reliability-panel.mkrs.link/). Requests that don't come from the users won't affect towards this, so you can make test requests, but be mindful that your requests don't add harmful load to the upstream server.
 
 Note: a real system would have both stricter and more rigorous requirements. For example, there may be a requirement to respond to successfully 99.99% of requests within 3 seconds and be available 99.999% of the time (known as [five nines](https://en.wikipedia.org/wiki/High_availability#Percentage_calculation)).
 
@@ -53,15 +53,20 @@ These are less important to your client than reliability and security, but are s
   All traffic is HTTP for now, but enabling HTTPS is the first step towards
   changing that.
 
-* **Enforce user access controls.**  
-  Right now any staff member can access any patient data, which could be a cause of mistakes or data security issues. Ensure that staff can only add, view, and amend information related to patients at their own hospitals
+* **Store image screening results.**
+  Right now, images can be screened and the results returned, but those results
+  are not stored by the server. Implement a way to store those, perhaps using
+  the existing notes feature.
 
-* **Enable retrieving an arbitrary number of items.**
-  Right now the system can only return a maximum of 100 items. Anything older
-  than that is lost forever. Allow users, in some way, to retrieve an
-  arbitrary number of items. You may wish to consider pagination. It will be
-  impossible to use the upstream server for this, so you will need to store
-  the data yourself.
+* **Tighten up authorisation security.**
+  For example, right now any staff can create notes that claim to be written by
+  any other member of staff. There may be other issues, but be mindful not to
+  accidentally prohibit something the users are doing right now!
+
+* **Add an audit trail feature.**
+  Your client would like to see a log of who has interacted with the system and
+  what they have done, to ensure that bad actors or unauthorised access can be
+  noticed and dealt with.
 
 ## The system
 
@@ -81,7 +86,9 @@ The system is composed of the following components. Most of these are out of you
 * **HOSP Web Server**  
   This is managed at great expense by HOSP Corp. It responds to requests according to its API, stores relevant data, and performs image processing. It probably has a database somehow connected to it, but you're not sure. It's not a very reliable server. Your client regularly complains of its unreliability. [You can read the HOSP API documentation here.](https://expert-guacamole-1b33b4a0.pages.github.io/)
 
-The only system you can directly control is the Load Balancer, as well as any other systems or infrastructure you choose to create. You can submit support tickets to HOSP or Corporate IT (via your coach) but it is up to them what requests they grant and under what timeframe. There's no expectation that you will have to contact HOSP or Corporate IT in order to succeed in this project.
+The only system you can directly control is the Load Balancer, as well as any other systems or infrastructure you choose to create. The Load Balancer will be useful, because it allows you to redirect traffic from the User Traffic Gateway to your own infrastructure. You can do this generally, for a particular % of traffic, and for specific HTTP Endpoints.
+
+You can submit support tickets to HOSP or Corporate IT (via your coach) but it is up to them what requests they grant and under what timeframe. There's no expectation that you will have to contact HOSP or Corporate IT in order to succeed in this project.
 
 ## Getting started
 
