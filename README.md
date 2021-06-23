@@ -28,6 +28,6 @@ Below you can find some means to track your learning, but feel free to explore s
 
 :bulb: If you feel really inspired, you could even organise a lightning talk for your cohort!
 
-Need even more inspiration? Check out [this file](https://github.com/makersacademy/course/blob/master/goals/self_directed_learning/resources/tracking_your_learning.md) from the Software Development course.
+Need even more inspiration? Check out [this file](https://github.com/makersacademy/course/blob/main/goals/self_directed_learning/resources/tracking_your_learning.md) from the Software Development course.
 
 **Are you ready?** [Go to the Course outline!](https://github.com/makersacademy/devops-course/blob/main/course_outline.md)
