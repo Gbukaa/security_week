@@ -25,16 +25,15 @@ I propose the team to work on a proof of concept to launch a container locally
 In this exercise, you will work in pairs to launch an Nginx container, just like you have seen in the demo.
 
 However, there are some tasks to be done:
-- You will need to modify and copy the `nginx-container-challenge.html` [file](https://github.com/makersacademy/devops-course/blob/main/workshops/week-1/nginx-container-challenge.html) into the container. 
-The file to be served by Nginx should be placed in `/usr/www`
-- The Nginx server configuration should serve the mentioned file on the entry location
+- You will need to modify and copy the `nginx-container-challenge.html` [file](https://github.com/makersacademy/devops-course/blob/main/workshops/week-1/nginx-container-challenge.html) into the container. The file to be served by Nginx should be placed in the following path: `/usr/www`
+- The Nginx server configuration should serve the mentioned file (not the `index.html` file anymore!) on the path specified above
 
 Note: discuss in your pairs the different ways you can come up with in order to modify the `default.conf` file
-on the Nginx server and choose one of them
+inside your Nginx container and choose one of them.
 
-Remember that the Nginx container should be accesible on port 8000 on your machine (the host)
+Remember that the Nginx container should be accesible on port 8000 on your machine (the host).
 
-What happened after you made the changes, has the page changed after you access your `localhost` on port 8000?
+What happened after you made the changes? Has the page changed after you access your `localhost` on port 8000?
 - Hint: have you tried reloading the Nginx server on the container?
 
 
