@@ -27,19 +27,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 * **Can you work as part of a team to deploy a static website on AWS using your own CI-CD solution?**
 * **Can you work as part of a team to create a basic serverless architecture for your static website?**
 
-
 ### Project Setup
 1. One member in your group, fork the following [GitHub repository](https://github.com/makersacademy/serverless-cicd).
 2. Add the other members of your group as collaborators.
 3. Read through the README file on the forked repository, have fun!
-
-### Supporting Materials
-- [Connect to your Linux instance using SSH](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html)
-- [Jenkins: Creating your first pipeline](https://www.jenkins.io/doc/pipeline/tour/hello-world/)
-- [Installing Jenkins](https://www.jenkins.io/doc/book/installing/linux/)
-- [Set Up a Jenkins Build Server](https://aws.amazon.com/getting-started/hands-on/setup-jenkins-build-server/)
-
-
-### Additional Resources
-- [AWS S3 Bucket](https://aws.amazon.com/s3/)
-- [Terraform](https://www.terraform.io/docs/index.html)
