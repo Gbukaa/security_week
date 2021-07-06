@@ -38,7 +38,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 1. One member in your group, fork the following [GitHub repository](https://github.com/makersacademy/acebook-node-template). Yes, it's Acebook with Node!
 2. Add the other members of your group as collaborators.
 3. Make sure the project is correctly set up and running locally.
-4. Make a copy for your group of this [Trello board](https://trello.com/b/HhaVoFhW/acebook-on-aws-week-3).
+4. Make a copy for your group of this [Trello board](https://trello.com/b/QYbN1b7t/acebook-on-aws-week-3).
 5. Work through the cards on the board and have fun!
 
 ### Bonus: Amazon ECS
