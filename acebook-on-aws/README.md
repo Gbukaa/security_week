@@ -8,7 +8,7 @@
 
 ## Overview of the week
 
-- You'll work in teams to build your own CI-CD solution and to deploy a containerised application using different AWS services (Your coach will announce the teams on Slack.)
+- You'll work in teams to build your own CI-CD solution and to deploy an existing application using different AWS services (Your coach will announce the teams on Slack.)
 - You'll organise your own work based on the goals for the week
 - There will be a session about IAM on AWS and perhaps a session about Amazon ECS, depending on the progress on the week project
 - There will be a retro on Friday
@@ -25,7 +25,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 * **Do you have a solid knowledge of IAM in AWS? You can explain the following concepts: users, groups, policies and roles**
 * **Can you work as part of a team to build your own CI-CD solution using GitHub Actions?**
-* **Can you work as part of a team to deploy a containerised application on EC2 using your own CI-CD solution?**
+* **Can you work as part of a team to deploy an existing application on EC2?**
 * **Can you apply security best practices around credentials and token storage?**
 * **Are you more familiar now with potential connectivity issues that may arise as part of your system design and architecture?**
 

@@ -49,7 +49,7 @@ In the `Tags` section, discuss and come up with a descriptive key-value pair tha
 
 Finally, before launching the instance, a pop up will prompt asking you to create a new key pair or select an existing one. 
 Read through the instructions and once you are done, create a new key pair. 
-Hopefully after doing some research around the EC2 dashboard, and making use of your .pem file, you can securily `ssh` into your EC2 instance from your Mac.
+Hopefully after doing some research around the EC2 dashboard, and making use of your `.pem` file, you can securily `ssh` into your EC2 instance from your Mac.
 
 ## Set up CodeDeploy
 
@@ -68,7 +68,7 @@ Note: you will need to use the app name identifier later on when working on your
 
 2. Click on the application you just created and `Create deployment group` and choose a descriptive name, for example `production`
 
-Think of a Deployment Group as the instace(s) where we'd like to target and deploy our code
+Think of a Deployment Group as the instance(s) where we'd like to target and deploy our code
 
 3. In the `Service Role` section, select the role that was facilitated by your coach for the CodeDeploy service, similarly as you did before for the EC2 profile instance role
 
@@ -93,16 +93,13 @@ You will then need to create a new User with programmatic access and some polici
 In order to determine which policies this user needs, according to the diagram you just worked on with your group,
 what service(s) do GitHub Actions need to interact with?
 
-
 :rotating_light: Spoiler alert!! :rotating_light: Keep reading... 
 
-The answer is two of them. The user for GitHub Actions is in charge of pushing the application revision we want to deploy to an S3 Bucket, 
-and then it will trigger the deployment of such revision to be handled by CodeDeploy
+The answer is two of them. The user for GitHub Actions is in charge of pushing the application revision we want to deploy to an S3 Bucket, and then it will trigger the deployment of such revision to be handled by CodeDeploy.
 
-The policies we need to add to the user are: `AmazonS3FullAccess` and `AWSCodeDeployFullAccess`
+The policies we need to add to the user are: `AmazonS3FullAccess` and `AWSCodeDeployFullAccess`.
 
-
-IMPORTANT: once you create the user, remember to save the credentials that appear with the confirmation message in a safe place, you may need them later.
+IMPORTANT: once you create the user, remember to save the credentials that appear with the confirmation message in a safe place, you will need them later.
 
 
 ## GitHub project repository
@@ -110,7 +107,7 @@ IMPORTANT: once you create the user, remember to save the credentials that appea
 We are almost at the end of this walkthrough. So far, you managed to get your AWS environment fully set up,
 and now you will need to work on your GitHub repository to make sure it is properly hooked and integrated with your AWS services.
 
-You have a main task to do now: Setting the CD job in the existing workflow
+You have a main task to do now: **Setting the CD job in the existing workflow**.
 
 Think about which steps are needed as per the diagram you created and what you know now after following this tutorial.
 - What should happen after the CI job passes with a green tick?
@@ -121,7 +118,7 @@ Some of the resources listed on this file may be useful!
 
 Finally, remember that when you created the user on AWS for GitHub Actions, you were given some credentials. Your job is also to find out where to add such credentials on your GitHub repository to connect with AWS.
 
-:bulb: Discuss in your groups possible solutions and best practices. Can you spot where they belong? Shh...! It's a secret! :wink:
+:bulb: Discuss in your groups possible solutions and best practices. Can you spot where they belong? *Shh...! It's a secret!* :wink:
 
 ## Resources
 

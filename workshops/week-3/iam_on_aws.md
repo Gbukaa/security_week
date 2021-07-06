@@ -29,7 +29,7 @@ He has just set up an AWS account for the team and called a meeting to discuss t
 
 ![IAM on AWS scenario](assets/iam-on-aws.jpg?raw=true "IAM on AWS scenario")
 
-There will be two groups, and each group will be responsible for deploying one of the two projects that form the application.
+There will be two groups, and each group will be responsible for deploying (in the future, not now) one of the two projects that form the application.
 
 :pencil: Now, in groups, discuss what **users**, **groups**, **policies** and, finally, **roles** are needed to achieve this.
 - Who is responsible for creating each of the resources needed?
@@ -40,7 +40,7 @@ There will be two groups, and each group will be responsible for deploying one o
 
 ### Principle of Least Privilege
 
-This is such an important concept in Cybersecurity. You're not the owner of the AWS account we've been using for the course, and as you probably haven't researched IAM until now, you haven't realised that you've had an `AdministratorAccess` policy.
+This is such an important concept in Cybersecurity. You're not the owner of the AWS account we've been using for the course, and as you probably haven't researched IAM until now, you haven't realised that you may have had an `AdministratorAccess` policy.
 
 :brain: What does the `AdministratorAccess` policy involve? Let's discuss why it's not a good practice to attach such policy to every user under one AWS account.
 
