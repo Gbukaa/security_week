@@ -37,7 +37,7 @@ Make sure you complete the following sections in order:
 
 Section 1: Terraform
 
-1. One member in your group, create a **private** GitHub repository using a Terraform template for the **.gitignore** option. This repository will serve as the place where Terraform configuration files will live.
+1. One member in your group, create a **private** GitHub repository using a Terraform template for the **.gitignore** option. This repository will serve as the place from where you will manage your infrastructure for this week - Your Terraform project!
 2. Add the other members of your group as collaborators.
 3. Make a copy for your group of this [Trello board](https://trello.com/b/1w6Va5g0/terraform-week-4).
 4. Work through the cards on the board and have fun!
