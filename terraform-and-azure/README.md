@@ -25,7 +25,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 * **Can you explain what IaC (Infrastructure as code) is?**
 * **Are you able to set an automatic workflow on GitHub Actions to manage your project infrastructure using Terraform?**
-* **Can you set up a GitHub Actions workflow to deploy your application using the existing infrastructure on Azure?**
+* **Can you set up a GitHub Actions workflow to deploy your application on the existing infrastructure on Azure?**
 
 ### Project Setup and Sections
 
@@ -35,14 +35,14 @@ Initial Setup (All group members):
 
 Make sure you complete the following sections in order:
 
-Section 1: Terraform
+#### Section 1: Terraform
 
 1. One member in your group, create a **private** GitHub repository using a Terraform template for the **.gitignore** option. This repository will serve as the place from where you will manage your infrastructure for this week - Your Terraform project!
 2. Add the other members of your group as collaborators.
 3. Make a copy for your group of this [Trello board](https://trello.com/b/1w6Va5g0/terraform-week-4).
 4. Work through the cards on the board and have fun!
 
-Section 2: Task Listing App (on Azure)
+#### Section 2: Task Listing App (on Azure)
 
 1. One member in your group, fork the following [GitHub repository](https://github.com/makersacademy/task-listing-app).
 2. Add the other members of your group as collaborators.
