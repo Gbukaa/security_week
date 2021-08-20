@@ -10,7 +10,7 @@
 
 - You'll work in teams to build your own CI-CD solution and to deploy an existing application using different AWS services (Your coach will announce the teams on Slack.)
 - You'll organise your own work based on the goals for the week
-- There will be a session about IAM on AWS and perhaps a session about Amazon ECS, depending on the progress on the week project
+- There will be a session about IAM on AWS
 - There will be a retro on Friday
 
 ## Goals for the week
@@ -40,10 +40,6 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 3. Make sure the project is correctly set up and running locally.
 4. Make a copy for your group of this [Trello board](https://trello.com/b/QYbN1b7t/acebook-on-aws-week-3).
 5. Work through the cards on the board and have fun!
-
-### Bonus: Amazon ECS
-
-If we have time this week, we'll have a [session](https://github.com/makersacademy/devops-course/blob/main/workshops/week-3/amazon_ecs.md) about ECS (Elastic Container Service) on AWS.
 
 ### Supporting Materials
 
