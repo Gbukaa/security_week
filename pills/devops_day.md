@@ -18,7 +18,7 @@ Here are some guidelines for your end-of-course presentations:
 
 * Think about the different concepts and skills you've learned and practiced from Week 1 on the DevOps course. What helped you in past weeks to face this Reliability Challenge more confidently?
 
-* Finally, add 1-2 slides showcasing some highlights from the course overall. Think about what you learned in the different weeks and how these fundamentals will help you learn whatever comex next in your future.
+* Finally, add 1-2 slides showcasing some highlights from the course overall. Think about what you learned in the different weeks and how these fundamentals will help you learn whatever comes next in your future.
 
 * Make it memorable! You should get a great memory out of it :)
 

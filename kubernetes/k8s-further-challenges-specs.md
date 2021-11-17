@@ -39,7 +39,7 @@ At the moment, we only have one replica of our Nginx app. However, due to traffi
 
 - :question: Think about why we refer to **scaling the deployment** rather than scaling the application. What could it mean? How are you going to go about this task? What is the plan that you have in mind?
 
-:bulb: One of the two stratagies (scaling the deployment vs scaling the application) is the correct way to proceed. Have a chat with your peer and do some research around these concepts.
+:bulb: One of the two strategies (scaling the deployment vs scaling the application) is the correct way to proceed. Have a chat with your peer and do some research around these concepts.
 
 
 ## Logging on K8s: Part 2
