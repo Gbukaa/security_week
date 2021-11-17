@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 - Understanding what it takes to work with self-managed clusters (as opposed to provider-managed clusters)
-- Launch your first K8s cluster locally using k3d
+- Launch your first K8s cluster locally using K3d
 
 ## Introduction
 So, until now you've worked with a provider-managed cluster, where you did not have to interact with the Control Plane or worry about provisioning the worker nodes... The infra was managed by AWS and your focus was to deploy your application and expose it to the world.

@@ -15,7 +15,7 @@ You will work in pairs to match the following concepts with each of the Terrafor
 - start infrastructure configuration project
 - carry out current execution plan
 
-:mag: Additionally, do some research in your pairs and answer the follownig questions:
+:mag: Additionally, do some research in your pairs and answer the following questions:
 - Is there a useful way in Terraform to check the formatting of your configuration files at any point in the Terraform flow? What would be that command?
 - Is there a useful command to automatically fix any formatting issues in your config files if Terraform highlights there's something not following their standards? Could it be something on the lines of `eslint --fix`?
 
