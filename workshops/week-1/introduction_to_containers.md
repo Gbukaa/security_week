@@ -31,7 +31,7 @@ However, there are some tasks to be done:
 Note: discuss in your pairs the different ways you can come up with in order to modify the `default.conf` file
 inside your Nginx container and choose one of them.
 
-Remember that the Nginx container should be accesible on port 8000 on your machine (the host).
+Remember that the Nginx container should be accessible on port 8000 on your machine (the host).
 
 What happened after you made the changes? Has the page changed after you access your `localhost` on port 8000?
 - Hint: have you tried reloading the Nginx server on the container?
@@ -44,3 +44,13 @@ What happened after you made the changes? Has the page changed after you access 
 - [Get shell in running Docker container](https://ma.ttias.be/get-shell-running-docker-container/)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/introduction_to_containers.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/introduction_to_containers.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/introduction_to_containers.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/introduction_to_containers.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/introduction_to_containers.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

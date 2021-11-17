@@ -47,3 +47,13 @@ Any questions?
 - [What is container orchestration?](https://www.redhat.com/en/topics/containers/what-is-container-orchestration)
 - [What problems does container orchestration solve?](https://www.capitalone.com/tech/cloud/what-is-container-orchestration/)
 - [Kubernetes concepts](https://kubernetes.io/docs/concepts/)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/intro_to_container_orchestration.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/intro_to_container_orchestration.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/intro_to_container_orchestration.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/intro_to_container_orchestration.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/intro_to_container_orchestration.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

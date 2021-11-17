@@ -42,7 +42,7 @@ Short and long answer: Everyone should care!
 
 ## SAST (Static Application Security Testing)
 
-Also referred to as *Source Code Analaysis Tools*.
+Also referred to as *Source Code Analysis Tools*.
 
 - :question: What is SAST?
 - :question: How can we leverage the use of such tools to spot security concerns?
@@ -65,3 +65,13 @@ You are going to work in teams now! Fork [this repository](https://github.com/ma
 - [AWS: Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 - [SAST](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 - [DAST](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

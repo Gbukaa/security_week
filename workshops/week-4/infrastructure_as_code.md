@@ -15,7 +15,7 @@ You will work in pairs to match the following concepts with each of the Terrafor
 - start infrastructure configuration project
 - carry out current execution plan
 
-:mag: Additionally, do some research in your pairs and answer the follownig questions:
+:mag: Additionally, do some research in your pairs and answer the following questions:
 - Is there a useful way in Terraform to check the formatting of your configuration files at any point in the Terraform flow? What would be that command?
 - Is there a useful command to automatically fix any formatting issues in your config files if Terraform highlights there's something not following their standards? Could it be something on the lines of `eslint --fix`?
 
@@ -25,3 +25,13 @@ You will work in pairs to match the following concepts with each of the Terrafor
 - [Terraform](https://www.terraform.io/)
 - [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 - [Why does IaC matter for DevOps?](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

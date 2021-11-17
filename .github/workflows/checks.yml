@@ -1,0 +1,37 @@
+name: Checks
+
+on: push
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.2
+
+      - name: Use Node.js 14.9.0
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.9.0
+
+      - name: Install spellcheck
+        run: npm install -g spellchecker-cli@~4.7.0
+
+      - name: Check spelling
+        run: |
+          chmod +x .github/scripts/check_spelling.sh
+          .github/scripts/check_spelling.sh
+
+      - name: Maintain Trackers
+        run: ruby .github/scripts/maintain_trackers.rb
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Updating trackers"

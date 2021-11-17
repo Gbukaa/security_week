@@ -45,7 +45,7 @@ In order to do this, follow the `Docker Hub Quickstart` resource provided below 
 
 :star: You can do this! The following hints should help:
 - How can we **commit** an image locally based on a running container?
-- How can you then see your list of images? It'd be great to tag the image you just committed with a meagninful name.
+- How can you then see your list of images? It'd be great to tag the image you just committed with a meaningful name.
 - Ideally you'll want to stop the nginx container that was just running and start a new one based on the image you just committed. Is everything running as expected?
 - If so, what should we do next with our image so that others can use it on their machines?
 - Remember to run one last test: once the image can be accessed publicly, remove all associated images and containers running locally and try to run a container with the remote image you just pushed.
@@ -58,3 +58,12 @@ If you have some extra time, share the images with your cohort peers and pull th
 
 - [Using Docker Desktop to manage a Container](https://flaviocopes.com/docker-desktop-manage-container/)
 - [Docker Hub Quickstart](https://docs.docker.com/docker-hub/)
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/containers_further_challenges.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/containers_further_challenges.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/containers_further_challenges.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/containers_further_challenges.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-1/containers_further_challenges.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

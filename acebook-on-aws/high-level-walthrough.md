@@ -49,7 +49,7 @@ In the `Tags` section, discuss and come up with a descriptive key-value pair tha
 
 Finally, before launching the instance, a pop up will prompt asking you to create a new key pair or select an existing one. 
 Read through the instructions and once you are done, create a new key pair. 
-Hopefully after doing some research around the EC2 dashboard, and making use of your `.pem` file, you can securily `ssh` into your EC2 instance from your Mac.
+Hopefully after doing some research around the EC2 dashboard, and making use of your `.pem` file, you can securely `ssh` into your EC2 instance from your Mac.
 
 ## Set up CodeDeploy
 
@@ -126,3 +126,13 @@ Finally, remember that when you created the user on AWS for GitHub Actions, you 
 - [Learn GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions)
 - [Automate Deployment to AWS with GitHub Actions](https://www.opsguru.io/post/automate-deployment-to-aws-with-github-actions)
 - ["Configure AWS Credentials" Action For GitHub Actions](https://github.com/aws-actions/configure-aws-credentials)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=acebook-on-aws/high-level-walthrough.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=acebook-on-aws/high-level-walthrough.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=acebook-on-aws/high-level-walthrough.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=acebook-on-aws/high-level-walthrough.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=acebook-on-aws/high-level-walthrough.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

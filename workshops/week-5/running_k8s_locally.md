@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 - Understanding what it takes to work with self-managed clusters (as opposed to provider-managed clusters)
-- Launch your first K8s cluster locally using k3d
+- Launch your first K8s cluster locally using K3d
 
 ## Introduction
 So, until now you've worked with a provider-managed cluster, where you did not have to interact with the Control Plane or worry about provisioning the worker nodes... The infra was managed by AWS and your focus was to deploy your application and expose it to the world.
@@ -21,7 +21,7 @@ Your coach will demo what it's like to work with a local K8s cluster using K3d, 
 - Being aware of the state of the cluster
 - Adding new worker nodes to an existing cluster
 - Creating a deployment to an existing cluster
-- Exposing the application deployed so that it's accesible from our machine
+- Exposing the application deployed so that it's accessible from our machine
 - Cleaning up the generated resources
 
 ## Practice: breakout rooms
@@ -45,3 +45,13 @@ Any questions?
 - [K3s](https://k3s.io/)
 - [K3d](https://k3d.io/)
 - [Application Image Reference](https://hub.docker.com/r/paulbouwer/hello-kubernetes/)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/running_k8s_locally.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/running_k8s_locally.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/running_k8s_locally.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/running_k8s_locally.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/running_k8s_locally.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

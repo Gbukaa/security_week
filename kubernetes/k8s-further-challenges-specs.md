@@ -39,7 +39,7 @@ At the moment, we only have one replica of our Nginx app. However, due to traffi
 
 - :question: Think about why we refer to **scaling the deployment** rather than scaling the application. What could it mean? How are you going to go about this task? What is the plan that you have in mind?
 
-:bulb: One of the two stratagies (scaling the deployment vs scaling the application) is the correct way to proceed. Have a chat with your peer and do some research around these concepts.
+:bulb: One of the two strategies (scaling the deployment vs scaling the application) is the correct way to proceed. Have a chat with your peer and do some research around these concepts.
 
 
 ## Logging on K8s: Part 2
@@ -87,3 +87,13 @@ Finally, do not forget to delete your clusters(s)!
 - [kubectl: show me the logs](https://dev.to/lucassha/kubectl-show-me-the-logs-1ld)
 - [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 - [K3d - Exposing Services](https://k3d.io/usage/guides/exposing_services/)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
