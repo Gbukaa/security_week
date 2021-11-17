@@ -45,7 +45,7 @@ In order to do this, follow the `Docker Hub Quickstart` resource provided below 
 
 :star: You can do this! The following hints should help:
 - How can we **commit** an image locally based on a running container?
-- How can you then see your list of images? It'd be great to tag the image you just committed with a meagninful name.
+- How can you then see your list of images? It'd be great to tag the image you just committed with a meaningful name.
 - Ideally you'll want to stop the nginx container that was just running and start a new one based on the image you just committed. Is everything running as expected?
 - If so, what should we do next with our image so that others can use it on their machines?
 - Remember to run one last test: once the image can be accessed publicly, remove all associated images and containers running locally and try to run a container with the remote image you just pushed.

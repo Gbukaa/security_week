@@ -42,7 +42,7 @@ Short and long answer: Everyone should care!
 
 ## SAST (Static Application Security Testing)
 
-Also referred to as *Source Code Analaysis Tools*.
+Also referred to as *Source Code Analysis Tools*.
 
 - :question: What is SAST?
 - :question: How can we leverage the use of such tools to spot security concerns?

@@ -21,7 +21,7 @@ Your coach will demo what it's like to work with a local K8s cluster using K3d, 
 - Being aware of the state of the cluster
 - Adding new worker nodes to an existing cluster
 - Creating a deployment to an existing cluster
-- Exposing the application deployed so that it's accesible from our machine
+- Exposing the application deployed so that it's accessible from our machine
 - Cleaning up the generated resources
 
 ## Practice: breakout rooms

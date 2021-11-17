@@ -9,5 +9,5 @@ This is an introductory workshop to get started in the fascinating world of DevO
 
 
 ### Resources
-- [What is Devops?](https://aws.amazon.com/devops/what-is-devops/), article on AWS
+- [What is DevOps?](https://aws.amazon.com/devops/what-is-devops/), article on AWS
 - [DevOps for Dummies](https://www.goodreads.com/book/show/41544326-devops-for-dummies), by Emily Freeman

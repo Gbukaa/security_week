@@ -31,7 +31,7 @@ However, there are some tasks to be done:
 Note: discuss in your pairs the different ways you can come up with in order to modify the `default.conf` file
 inside your Nginx container and choose one of them.
 
-Remember that the Nginx container should be accesible on port 8000 on your machine (the host).
+Remember that the Nginx container should be accessible on port 8000 on your machine (the host).
 
 What happened after you made the changes? Has the page changed after you access your `localhost` on port 8000?
 - Hint: have you tried reloading the Nginx server on the container?
