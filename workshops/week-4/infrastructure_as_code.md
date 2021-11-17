@@ -25,3 +25,13 @@ You will work in pairs to match the following concepts with each of the Terrafor
 - [Terraform](https://www.terraform.io/)
 - [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 - [Why does IaC matter for DevOps?](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-4/infrastructure_as_code.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -87,3 +87,13 @@ Finally, do not forget to delete your clusters(s)!
 - [kubectl: show me the logs](https://dev.to/lucassha/kubectl-show-me-the-logs-1ld)
 - [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 - [K3d - Exposing Services](https://k3d.io/usage/guides/exposing_services/)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=kubernetes/k8s-further-challenges-specs.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

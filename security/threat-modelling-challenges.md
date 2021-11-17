@@ -24,3 +24,13 @@ Note that the challenges will be increasing in difficulty as you progress throug
 - [CORS - Cross Origin Resource Sharing](https://flask-cors.readthedocs.io/en/latest/)
 - [DevSecOps, Threat Modeling and You: Get started using the STRIDE method](https://medium.com/@brunoamaroalmeida/devsecops-threat-modelling-and-you-get-started-using-the-stride-method-85d143ab86f4)
 - [Secure software design, little and often](https://martinfowler.com/articles/agile-threat-modelling.html)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/threat-modelling-challenges.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/threat-modelling-challenges.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/threat-modelling-challenges.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/threat-modelling-challenges.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/threat-modelling-challenges.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -35,3 +35,13 @@ Minerva highlighted this in one of our meetings to convince the team to start ad
 ### Resources
 - [Google SRE Books](https://sre.google/books/)
 - [SRE vs. DevOps — a False Distinction?](https://devops.com/sre-vs-devops-false-distinction/)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/weeks-7-and-8/sre_and_devops.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/weeks-7-and-8/sre_and_devops.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/weeks-7-and-8/sre_and_devops.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/weeks-7-and-8/sre_and_devops.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/weeks-7-and-8/sre_and_devops.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

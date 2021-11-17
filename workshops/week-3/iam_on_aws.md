@@ -49,3 +49,13 @@ This is such an important concept in Cybersecurity. You're not the owner of the 
 
 - [AWS Identity and Access Management (IAM)](https://aws.amazon.com/iam/)
 - [Access Control - Principle of Least Privilege](https://owasp.org/www-community/Access_Control#:~:text=In%20security%2C%20the%20Principle%20of,be%20limited%20in%20this%20manner.)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-3/iam_on_aws.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-3/iam_on_aws.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-3/iam_on_aws.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-3/iam_on_aws.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-3/iam_on_aws.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -55,3 +55,13 @@ As part of this task, you only have information about the first question (*What 
 - [Threat Modelling at Microsoft](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
 - [Secure DevOps Starts with Threat Modelling Software](https://threatmodeler.com/secure-devops-starts-with-threat-modeling/)
 - [Threat modelling and DevOps: 3 lessons from the front lines](https://techbeacon.com/security/threat-modeling-devops-3-lessons-front-lines)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-6/introduction-to-threat-modelling.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-6/introduction-to-threat-modelling.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-6/introduction-to-threat-modelling.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-6/introduction-to-threat-modelling.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-6/introduction-to-threat-modelling.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
