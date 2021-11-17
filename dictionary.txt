@@ -1,4 +1,4 @@
-:information_source:
+ℹ️
 \ufe0f
 .gitignore
 .yml
