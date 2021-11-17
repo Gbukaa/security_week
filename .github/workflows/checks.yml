@@ -22,7 +22,7 @@ jobs:
         run: npm install -g spellchecker-cli@~4.7.0
 
       - name: Check spelling
-        run: .github/scripts/check_spelling.sh
+        run: sh .github/scripts/check_spelling.sh
 
       - name: Maintain Trackers
         run: ruby .github/scripts/maintain_trackers.rb
