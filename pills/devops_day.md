@@ -22,4 +22,4 @@ Here are some guidelines for your end-of-course presentations:
 
 * Make it memorable! You should get a great memory out of it :)
 
-### Important instructions: [Logistics]()
+### Important instructions: [Logistics](https://docs.google.com/document/d/1Qw7jnKOXPQ0HnFPGCWpCJGy7JXwKLSfqhHQYVYgy24o/edit)
