@@ -3,7 +3,7 @@ name: Checks
 on: push
 
 jobs:
-  deploy:
+  checks:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -22,10 +22,10 @@ jobs:
         run: npm install -g spellchecker-cli@~4.7.0
 
       - name: Check spelling
-        run: ./scripts/check_spelling.sh
+        run: .github/scripts/check_spelling.sh
 
       - name: Maintain Trackers
-        run: ruby scripts/maintain_trackers.rb
+        run: ruby .github/scripts/maintain_trackers.rb
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
