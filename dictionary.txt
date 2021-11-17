@@ -1,1 +1,15 @@
+``
+Acebook
+Balancer
+codebase
+CodeDeploy
 DevOps
+Dockerfile
+EC2
+IAM
+IPs
+repo
+S3
+TCP
+Trello
+walkthrough

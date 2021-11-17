@@ -49,7 +49,7 @@ In the `Tags` section, discuss and come up with a descriptive key-value pair tha
 
 Finally, before launching the instance, a pop up will prompt asking you to create a new key pair or select an existing one. 
 Read through the instructions and once you are done, create a new key pair. 
-Hopefully after doing some research around the EC2 dashboard, and making use of your `.pem` file, you can securily `ssh` into your EC2 instance from your Mac.
+Hopefully after doing some research around the EC2 dashboard, and making use of your `.pem` file, you can securely `ssh` into your EC2 instance from your Mac.
 
 ## Set up CodeDeploy
 
