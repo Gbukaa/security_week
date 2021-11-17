@@ -23,8 +23,8 @@ jobs:
 
       - name: Check spelling
         run: |
-        chmod +x .github/scripts/check_spelling.sh
-        .github/scripts/check_spelling.sh
+          chmod +x .github/scripts/check_spelling.sh
+          .github/scripts/check_spelling.sh
 
       - name: Maintain Trackers
         run: ruby .github/scripts/maintain_trackers.rb
