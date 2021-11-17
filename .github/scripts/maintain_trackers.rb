@@ -4,7 +4,7 @@
 
 require "find"
 
-PROJECT_ROOT = File.expand_path("..", File.dirname(__FILE__))
+PROJECT_ROOT = File.expand_path("../..", File.dirname(__FILE__))
 REPOSITORY = "devops-course"
 
 START_TAG = "<!-- BEGIN GENERATED SECTION DO NOT EDIT -->"
