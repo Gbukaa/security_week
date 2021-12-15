@@ -86,7 +86,7 @@ Finally, do not forget to delete your clusters(s)!
 ### Resources
 - [kubectl: show me the logs](https://dev.to/lucassha/kubectl-show-me-the-logs-1ld)
 - [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
-- [K3d - Exposing Services](https://k3d.io/usage/guides/exposing_services/)
+- [K3d - Exposing Services](https://k3d.io/v5.0.1/usage/exposing_services/)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
