@@ -1,6 +1,6 @@
 # Makers Academy - DevOps
 
-Welcome to the first 6 weeks of the rest of your journey to become a DevOps expert...
+Welcome to the first 8 weeks of the rest of your journey to become a DevOps expert...
 
 Every week, either starting from the very beginning or scaffolding with existing material, we'll be building projects and deploying them to the Cloud, how exciting! Most projects will take one week.
 

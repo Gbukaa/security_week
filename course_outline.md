@@ -6,7 +6,9 @@
 - Week 2: [Serverless CI-CD](https://github.com/makersacademy/devops-course/blob/main/serverless-cicd/)
 - Week 3: [Acebook on AWS](https://github.com/makersacademy/devops-course/blob/main/acebook-on-aws/)
 - Week 4: [Terraform and Azure](https://github.com/makersacademy/devops-course/blob/main/terraform-and-azure/)
-- Weeks 5-6: [Reliability](https://github.com/makersacademy/devops-course/tree/main/reliability/)
+- Week 5: [Container Orchestration](https://github.com/makersacademy/devops-course/blob/main/kubernetes)
+- Week 6: [Security](https://github.com/makersacademy/devops-course/blob/main/security)
+- Weeks 7 and 8: [Reliability](https://github.com/makersacademy/devops-course/tree/main/reliability/)
 
 ## Makers Academy - The Company
 
