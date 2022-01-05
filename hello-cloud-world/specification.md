@@ -4,7 +4,7 @@ So by now you should have a working Express project that you should have tested 
 
 :pencil2: Now, in your groups, it's time to diagram!
 
-Create a timeline diagram that should include the different technologies and tools that are part of your project this week. You should start from the app you are developing and finish with the Cloud :cloud:
+Create a diagram illustrating how your app deployment process works. It could include the different technologies and tools that are part of your project this week. You should start from the app you are developing and finish with the Cloud :cloud:
 
 Add the missing pieces in between to create the full picture:
 - Are you thinking of pushing this local project to GitHub repository? Why or why not?
