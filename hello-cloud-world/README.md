@@ -2,7 +2,7 @@
 
 ## Kick-off
 
-1. We'll discuss about the important things for the week
+1. We'll discuss the important things for the week
 2. Your coach will send you an invitation to join an AWS account owned by Makers Academy. Each of you will have their own user account on AWS. Note that this is the AWS sign-in that you will use for the rest of the course
 3. We'll have a short Q&A
 4. You'll get into your teams and run through the [project setup](#project-setup)
