@@ -2,7 +2,7 @@
 
 ## Kick-off
 
-1. We'll discuss about the important things for the week
+1. We'll discuss the important things for the week
 2. We'll have a short Q&A
 3. You'll get into your teams and run through the [project tasks](#project-setup-and-sections)
 
