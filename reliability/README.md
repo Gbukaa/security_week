@@ -35,7 +35,7 @@ The hitch? You don't have the code yet. It's supposed to be coming later this we
 * Your system should respond to 99% of user requests successfully over the duration of this project.
 * No security breaches.
 
-We will track the successful request response rate on [this dashboard](http://reliability-panel.mkrs.link/). Requests that don't come from the users won't affect towards this, so you can make test requests, but be mindful that your requests don't add harmful load to the upstream server.
+We will track the successful request response rate on a dashboard that your coach will share with you. Requests that don't come from the users won't affect towards this, so you can make test requests, but be mindful that your requests don't add harmful load to the upstream server.
 
 Note: a real system would have both stricter and more rigorous requirements. For example, there may be a requirement to respond to successfully 99.99% of requests within 3 seconds and be available 99.999% of the time (known as [five nines](https://en.wikipedia.org/wiki/High_availability#Percentage_calculation)).
 
