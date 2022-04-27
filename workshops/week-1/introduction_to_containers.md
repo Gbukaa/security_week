@@ -1,11 +1,13 @@
 # Introduction to Containers
 
 ### Learning Objectives
-- Explain what is a Container
-- Know some of the benefits of containerising applications
-- Understand the problems that containers solve
-- Understand the basics of Docker
-- Launch your first container locally!
+
+Be able to:
+
+- Explain what a container is
+- Explain some of the benefits of containerising applications and the problems that containers solve
+- Run a container on your local machine
+- Interact with containers running on your local machine
 
 ### What are Containers and what are their benefits?
 

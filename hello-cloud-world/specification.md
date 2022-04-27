@@ -1,37 +1,56 @@
-# Hello Cloud World! specification
+# Hello Cloud World requirements
 
 So by now you should have a working Express project that you should have tested in your local machine. Awesome!
 
-:pencil2: Now, in your groups, it's time to diagram!
+Albus, your Product Owner, has done some thinking on what technologies would be best used to deploy this app.
+Here are his requirements:
 
-Create a diagram illustrating how your app deployment process works. It could include the different technologies and tools that are part of your project this week. You should start from the app you are developing and finish with the Cloud :cloud:
+- The app should be containerised using Docker
+- The containerised app should be deployed to [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+- It should be possible to inspect the running application's logs to view incoming requests
+- It should be possible to view information on the health of the running app
+- So that other members of the development team are aware of how it works and can debug it if need be, the deployment process used for the app should be documented in a diagram.
 
-Add the missing pieces in between to create the full picture:
-- Are you thinking of pushing this local project to GitHub repository? Why or why not?
-- How are we creating the image and where are we hosting it?
-- How are you planning to take your application to the cloud?
+There is one caveat: this week, you don't have access to the AWS command line tools, so you'll have to figure out a way to do this through the AWS Console only.
 
-Do not worry about being too detailed with your diagrams, this is exactly what we want as part of this exercise.
+## Getting started
 
-Finally, remember that we are working with containers this week!
+Before diving in, create a diagram of what you know so far and how you think the deployment process might look.
+Via what process will your code end up running on Elastic Beanstalk?
 
-## AWS Elastic Beanstalk (EB)
+Make the diagram as detailed as you can.
+Populate it with the different pieces of code, tools and technologies you think are involved and draw links between them. 
 
-This is all great, but, where are we deploying our containerised application?
+Creating this diagram will help you and your team get to grips with what you have to build, what you already know, and what you will need to research.
 
-This week, our aim will be to deploy our application image to AWS Elastic Beanstalk, which is a great service to deploy your first service on AWS.
+As you find out more, keep going back to your diagram.
+Enhance or correct it as you make mistakes, get feedback and learn more.
 
-Your coach should have invited you as users to join the AWS Console, from which you can work on the setup you will need for this project.
+## Bonus
 
-Once you have a working containerised app on AWS EB, you could try to answer the following questions:
-- Can you find where are the `logs` for incoming traffic into your running application?
-- What resource within your AWS EB could be useful for `telemetry` purposes?
+### A second way
 
-### Bonus
+If you've only explored one way of deploying a containerised app to Elastic Beanstalk, try and see if, using the Elastic Beanstalk documentation, you can discover a second way of deploying a Docker image to Elastic Beanstalk. 
 
-By the end of the week, as a bonus, it would be great to have a fair understanding of the number of things AWS EB does for us under the hood! Do not worry if you do not understand all of them at this point, these are concepts that we will revisit in the future!
+Illustrate the second method you've discovered in a new diagram.
 
-### Keywords
+How do the two approaches compare? Does one have any advantages over the other? In which situations might you pick one over the other? 
+
+### Better logging
+
+The team would like to be able to easily search through and filter the application logs for debugging purposes, for example using a search term or a date range.
+
+Find a way to make the Elastic Beanstalk logs easier to access and consume.
+
+Add your improved logging solution to your diagram.
+
+### Explore
+
+Feel free to explore and play around with the functionality Elastic Beanstalk has to offer!
+This will help you become more familiar with AWS and discover what it's capable of.
+For example, you could try containerising and deploying an app you've built previously on the course.
+
+## Keywords
 
 - Dockerfile
 - Docker Image
