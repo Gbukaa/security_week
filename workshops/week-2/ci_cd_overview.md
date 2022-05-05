@@ -3,7 +3,8 @@
 ### Learning Objectives
 - Explain what CI (Continuous Integration) is
 - Explain what CD (Continuous Delivery/Deployment) is
-- Understand and get familiar with some real-world problems these best practices solve
+- Understand and get familiar with some real-world problems CI-CD solves
+- Describe a CI-CD pipeline using a diagram
 
 ### What is CI
 
@@ -36,6 +37,13 @@ How do we spot these without asking devs to check each of them one by one?
 ```
 
 In pairs, your task will be to come up with possible solutions that you would include as part of your CI job within your pipeline.
+
+Create a [flowchart diagram](https://playground.diagram.codes/d/flowchart) to illustrate:
+
+- what tasks your CI pipeline would perform,
+- what would trigger these tasks to be run,
+- in what order the tasks should run,
+- what would happen when a check fails.
 
 ### What is CD
 
