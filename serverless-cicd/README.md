@@ -27,7 +27,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 * Can you illustrate your CI-CD pipeline using a diagram?
 * Can you work as part of a team to build your own CI-CD solution using Jenkins?
 * Can you work as part of a team to deploy a static website on AWS using your own CI-CD solution?
-* Can you follow an effective process for learning to new DevOps tooling and Cloud services?
+* Can you follow an effective process for learning to use new DevOps tooling and Cloud services?
 
 **Serverless**
 * Can you work as part of a team to add a basic Serverless backend to your website?
