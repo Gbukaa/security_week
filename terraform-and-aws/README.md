@@ -24,8 +24,8 @@ You are already familiar with these questions, but it's important to bear them i
 By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
 
 * **Can you explain what IaC (Infrastructure as code) is?**
-* **Are you able to set an automatic workflow on Github Actions to manage your project infrastructure using Terraform?**
-* **Can you set up a Github Actions workflow to deploy your application on the existing infrastructure on AWS?**
+* **Are you able to set an automatic workflow on GitHub Actions to manage your project infrastructure using Terraform?**
+* **Can you set up a GitHub Actions workflow to deploy your application on the existing infrastructure on AWS?**
 
 ### Project Setup and Sections
 
@@ -39,7 +39,7 @@ Make sure you complete the following sections in order:
 
 1. One member in your group, create a **private** GitHub repository using a Terraform template for the **.gitignore** option. This repository will serve as the place from where you will manage your infrastructure for this week - Your Terraform project!
 2. Add the other members of your group as collaborators.
-4. Make a copy for your group of this [Trello board](https://trello.com/b/MsYV9YsX/terraformgithub-on-aws).
+4. Make a copy for your group of this [Trello board](https://trello.com/b/MsYV9YsX/terraform-on-aws).
 5. Work through the cards on the board and have fun!
 
 #### Section 2: Task Listing App (on AWS)
