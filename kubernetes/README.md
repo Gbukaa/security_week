@@ -37,10 +37,10 @@ Your coach will tell you as part of the kickoff which one you will be tackling f
 
 ### Running Kubernetes locally
 
-In this project, you will be working **in pairs** to run your own Kubernetes clusters locally using a tool called `k3d`.
+In this project, you will be working **in pairs** to run your own Kubernetes clusters locally using a tool called K3s.
 You will be managing all components of a Kubernetes cluster, including the control plane, manually.
 
-Your coach will either run or share with you a recording of the the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using `k3d`.
+Your coach will either run or share with you a recording of the the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using K3s.
 
 In pairs, you will then work on the [Kubernetes Further Challenges](k8s-further-challenges.md).
 
