@@ -8,8 +8,8 @@ Can I ...
 
 - Explain what a Kubernetes *Pod* represents?
 - Explain what the purpose of a Kubernetes *Deployment* is?
-- Explain what the effect of the `kubectl logs` command is?
-- Explain what the effect of the `kubectl scale` command is?
+- Use `kubectl` to view logs from an application running on Kubernetes?
+- Explain what the effect of scaling a Deployment is?
 - Explain what the effect of the `kubectl port-forward` command is and its limitations?
 - Explain what the purpose of the different types of Kubernetes *Services* is?
 - Explain what the purpose of a Kubernetes *Ingress* is?
