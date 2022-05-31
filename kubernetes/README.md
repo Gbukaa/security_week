@@ -40,7 +40,7 @@ Your coach will tell you as part of the kickoff which one you will be tackling f
 In this project, you will be working **in pairs** to run your own Kubernetes clusters locally using a tool called K3s.
 You will be managing all components of a Kubernetes cluster, including the control plane, manually.
 
-Your coach will either run or share with you a recording of the the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using K3s.
+Your coach will either run or share with you a recording of the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using K3s.
 
 In pairs, you will then work on the [Kubernetes Further Challenges](k8s-further-challenges.md).
 
@@ -48,7 +48,7 @@ In pairs, you will then work on the [Kubernetes Further Challenges](k8s-further-
 
 In this **team project**, you will be learning how to set up a Kubernetes cluster using AWS' Elastic Kubernetes Service (EKS). 
 
-A K8s cluster can be difficult to build, configure and get started with, which means that for some companies, having to managing their own K8s clusters is not always desireable or cost-effective. 
+A K8s cluster can be difficult to build, configure and get started with, which means that for some companies, having to managing their own K8s clusters is not always desirable or cost-effective. 
 So there are a bunch of solutions provided out there that fully manage the Kubernetes control plane.
 EKS is one of them.
 

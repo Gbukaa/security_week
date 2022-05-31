@@ -35,6 +35,7 @@ IPs
 K3d
 K3s
 K8s
+kubectl
 Kubernetes
 localhost
 Metapod

@@ -1,5 +1,14 @@
 # K8s Further Challenges
 
+In these challenges you will learn through direct experience how Kubernetes can help with automating the deployment and management of containerised applications.
+
+More specifically, you will learn:
+
+- How to deploy an application onto a Kubernetes cluster 
+- How to use Kubernetes to scale a running application
+- How do make applications running on a Kubernetes cluster accessible outside the cluster
+- How to use gain visibility into the inner workings of the cluster and the applications running on it
+
 ## Introduction
 
 You will work in pairs (you may have to work solo if we're odd numbers!) to tackle a series of challenges that will help you enhance your knowledge working with K8s locally.
@@ -10,7 +19,7 @@ You will work in pairs (you may have to work solo if we're odd numbers!) to tack
 - A will do the first task on their machine, then B will follow and do the same.
 - After both have completed the first task, A will start with the second task, and so on...
 
-:exclamation: Make sure you ask each other questions and validate your knowledge and assumptions as you go. As usual, please ask other peers in your cohort channel (and eventually your coach) if you would like to clarify something.
+:exclamation: Make sure you ask each other questions, diagram and validate your knowledge and assumptions as you go. As usual, please ask other peers in your cohort channel (and eventually your coach) if you would like to clarify something.
 
 ## Challenges
 

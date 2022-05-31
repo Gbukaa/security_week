@@ -1,5 +1,19 @@
 # K8s Further Challenges Specs
 
+## Learning objectives
+
+As you go along, ask yourself the following questions to check your understanding of what you're doing. 
+
+Can I ...
+
+- Explain what a Kubernetes *Pod* represents?
+- Explain what the purpose of a Kubernetes *Deployment* is?
+- Explain what the effect of the `kubectl logs` command is?
+- Explain what the effect of the `kubectl scale` command is?
+- Explain what the effect of the `kubectl port-forward` command is and its limitations?
+- Explain what the purpose of the different types of Kubernetes *Services* is?
+- Explain what the purpose of a Kubernetes *Ingress* is?
+- Diagram the state of the cluster and the connections between the resources running in it?
 
 ## Create your local cluster
 :rocket: You'll need to create a K3d cluster with two worker nodes.
@@ -65,28 +79,47 @@ However, with K3d we're given a `virtual LoadBalancer` that does not work exactl
 
 
 ## Exposing our services via Ingress
+
 Some of the resources provided below should be helpful to help you understand Ingress and configure it on your local cluster.
 
 :question: Now is a great time to ask yourselves what the extra argument we used earlier on to create our cluster (`-p "8080:80@loadbalancer"`) meant.
 
-In essence, we're doing a very similar thing as compared with the port-forwarding strategy. We are mapping port 8080 from the host (our machine) to port 80 on the container(s) within the cluster.
-- :flashlight: If you want to know more about this, the resources below should give you more information about how this works
+In essence, we're doing a very similar thing as compared with the port-forwarding strategy. We are mapping port 8080 from the host (our machine) to port 80 on the container(s) within the cluster. 
 
+But there is a significant difference!
+How does exposing an app via a Service and an Ingress compare to using port forwarding? When might you use one over the other? The resources below should help you answer this question.
 
 ## Testing our exposed cluster
+
 Awesome! Now you are exposing the Nginx app running in your 3 replicas via Ingress.
 :boom: Send some requests to your cluster entry point from your machine. Are these requests reaching different pods within your cluster? :bulb: Check with `Stern` to get some user-friendly visibility on what is going on.
 
+## Diagram the state of your cluster
+
+You should now have several different resources running in your cluster.
+How are they working together to allow you to access the app through the browser?
+
+Place them all on a diagram and find out what you need to draw and label the connections between them.
+
+Some research starting with the resources below will help here.
+Commands like `kubectl get` and `kubectl describe` can also come in useful for inspecting and playing around with the inner workings of your cluster.
+
 
 ## Cleanup
-Great job for making it this far! :star2:
+Great job for making it this far! :star2: 
+
+Have another look at the learning objectives at the top of this page - is there anything you might want to revisit? Do reach out to a coach if you'd like guidance on how best to proceed.
 
 Finally, do not forget to delete your clusters(s)!
 
 ### Resources
+
+- [kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [kubectl: show me the logs](https://dev.to/lucassha/kubectl-show-me-the-logs-1ld)
-- [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 - [K3d - Exposing Services](https://k3d.io/v5.0.1/usage/exposing_services/)
+- [Kubernetes Service Types](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
+- [Debug Services](https://kubernetes.io/docs/tasks/debug/debug-application/debug-service/)
+- [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
