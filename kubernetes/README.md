@@ -54,7 +54,7 @@ EKS is one of them.
 
 EKS is a managed service that simplifies running K8s clusters on AWS. You don't need to install or operate your own K8s control plane or worker nodes. 
 
-> :warning: **Important:** This project is designed to be worked on as a team. Resource limitations on AWS mean that you will only to start one Kubernetes cluster per team! Make sure you work together on a single cluster.
+> :warning: **Important:** This project is designed to be worked on as a team. Resource limitations on AWS mean that you will only be able to start one Kubernetes cluster per team! Make sure you work together on a single cluster.
 
 Ready? Fork [this repository](https://github.com/makersacademy/metapod) and follow the instructions in its README to get started :bug:
 
