@@ -2,9 +2,9 @@
 
 ## Kick-off
 
-1. We'll discuss the important things for the week
-2. We'll have a short Q&A
-3. You'll get into your teams and start with the [project for this week](#metapod-project)
+1. We'll discuss the important things for the week.
+2. We'll have a short Q&A.
+3. You'll get into your teams and start with one of the [projects for this week](#projects).
 
 ## Overview of the week
 
