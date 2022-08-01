@@ -24,11 +24,12 @@ You are already familiar with these questions, but it's important to bear them i
 
 By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
 
-* **Can you explain and use common Container Orchestration practices with K8s along with listing its main benefits and problem it solves?**
-* **Can you diagram the K8s cluster architecture and the different pieces that take part in it?**
-* **Can you work as part of a team to build your own EKS cluster?**
-* **Can you build your own K8s clusters locally using K3d?**
-* **Do you have an understanding of the main differences between running your own K8s cluster locally as opposed to using a service to provision them from AWS?**
+* **Can you explain what Container Orchestration is?**
+* **Can you epxlain what problems Container Orchestration solves and what its main benefits are?**
+* **Can you use Kubernetes to deploy and manage simple applications running on a cluster?**
+* **Can you diagram the Kubernetes cluster architecture and the different pieces that take part in it?**
+* **Can you use EKS to run a Kubernetes cluster on AWS?
+* **Can you describethe main differences between running your own K8s cluster as opposed to using a Cloud service like EKS?**
 
 ## Projects
 
@@ -40,7 +41,7 @@ Your coach will tell you as part of the kickoff which one you will be tackling f
 In this project, you will be working **in pairs** to run your own Kubernetes clusters locally using a tool called K3s.
 You will be managing all components of a Kubernetes cluster, including the control plane, manually.
 
-Your coach will either run or share with you a recording of the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using K3s.
+Your coach will either run or share a recording of the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using K3s.
 
 In pairs, you will then work on the [Kubernetes Further Challenges](k8s-further-challenges.md).
 
@@ -57,9 +58,6 @@ EKS is a managed service that simplifies running K8s clusters on AWS. You don't 
 > :warning: **Important:** This project is designed to be worked on as a team. Resource limitations on AWS mean that you will only be able to start one Kubernetes cluster per team! Make sure you work together on a single cluster.
 
 Ready? Fork [this repository](https://github.com/makersacademy/metapod) and follow the instructions in its README to get started :bug:
-
-
-
 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
