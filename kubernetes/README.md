@@ -28,7 +28,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 * **Can you epxlain what problems Container Orchestration solves and what its main benefits are?**
 * **Can you use Kubernetes to deploy and manage simple applications running on a cluster?**
 * **Can you diagram the Kubernetes cluster architecture and the different pieces that take part in it?**
-* **Can you use EKS to run a Kubernetes cluster on AWS?
+* **Can you use EKS to run a Kubernetes cluster on AWS?**
 * **Can you describethe main differences between running your own K8s cluster as opposed to using a Cloud service like EKS?**
 
 ## Projects
