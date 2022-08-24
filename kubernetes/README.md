@@ -25,11 +25,11 @@ You are already familiar with these questions, but it's important to bear them i
 By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
 
 * **Can you explain what Container Orchestration is?**
-* **Can you epxlain what problems Container Orchestration solves and what its main benefits are?**
+* **Can you explain what problems Container Orchestration solves and what its main benefits are?**
 * **Can you use Kubernetes to deploy and manage simple applications running on a cluster?**
 * **Can you diagram the Kubernetes cluster architecture and the different pieces that take part in it?**
 * **Can you use EKS to run a Kubernetes cluster on AWS?**
-* **Can you describethe main differences between running your own K8s cluster as opposed to using a Cloud service like EKS?**
+* **Can you describe the main differences between running your own K8s cluster as opposed to using a Cloud service like EKS?**
 
 ## Projects
 
