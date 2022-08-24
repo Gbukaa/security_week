@@ -10,7 +10,7 @@ Here are some guidelines for your end-of-course presentations:
 
 ### What to include?
 
-* To guide you on what to include, think about how far you've gone on your DevOps journey in just 6 weeks. What makes you most proud? Any *eureka* moments throughout your journey?
+* To guide you on what to include, think about how far you've gone on your DevOps journey in just 8 weeks. What makes you most proud? Any *eureka* moments throughout your journey?
 
 * How have you worked in teams in the different projects? What practices and rituals have been beneficial? Can you explain how these have helped you achieve a desired objective?
 
