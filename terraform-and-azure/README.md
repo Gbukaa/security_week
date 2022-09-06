@@ -10,7 +10,7 @@
 
 - You'll work in teams to set up two separate workflows: one to manage and deploy your infrastructure on Azure using Terraform and another one to deploy an existing application on Azure
 - You'll organise your own work based on the goals for the week
-- There will be a session about IaC (Infrastructure as Code)
+- There will be a session about Infrastructure as Code (IaC)
 - There will be a retro on Friday
 
 ## Project goals
@@ -21,11 +21,29 @@ You are already familiar with these questions, but it's important to bear them i
 
 * Are you a better DevOps engineer than you were yesterday?
 
-By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
+By the end of the week, the goal is to be able to answer "yes" to the week's primary questions:
 
-* **Can you explain what IaC (Infrastructure as code) is?**
-* **Are you able to set an automatic workflow on GitHub Actions to manage your project infrastructure using Terraform?**
-* **Can you set up a GitHub Actions workflow to deploy your application on the existing infrastructure on Azure?**
+* **Infrastructure as Code in general:**
+  * Can you explain what the term "Infrastructure as Code" refers to?
+  * Can you explain the benefits using IaC tools and what problems they solve?
+
+* **Terraform**
+  * Can you diagram how the basic Terraform commands are used to manage Cloud infrastructure?
+    * `terraform init`
+    * `terraform plan`
+    * `terraform apply`
+  * Can you explain the following fundamental building blocks of the Terraform language?
+    * Provider
+    * Resource
+    * State
+    * References
+  * Can you write a Terraform configuration and use it to create a piece of infrastructure on Azure?
+  * Can you write a Terraform configuration and use it to create and manage the infrastructure of a web app?
+  * Can you write your Terraform code in such a way that `terraform apply` only needs to be run once to create all of the infrastructure for needed for a given project (1-touch provisioning)?
+
+* **CI-CD with Terraform**
+    * Are you able to build an automatic workflow on GitHub Actions to manage your project infrastructure using Terraform?
+    * Can you set up a GitHub Actions workflow to deploy your application onto existing infrastructure on Azure?
 
 ### Project Setup and Sections
 
