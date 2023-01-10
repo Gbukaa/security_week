@@ -43,7 +43,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 1. One member in your group, create a GitHub repo for your Hello Cloud World! project.
 2. Add the other members of your group as collaborators.
-3. Create a simple Node.js project using Express. The idea is for you to choose what you would like to render on the page and see on the web when your application is on the cloud. Choose something that you'd like to show to your friends!
+3. Create a simple webapp server using either Flask (this is the Python option) or Express (this is the Javascript option). Choose the language and framework in which you would feel most comfortable writing a very simple webapp. It need not do more than show "Hello World" in a browser window.
 4. Once you've created the app, move on to the [specification](specification.md) to find out to where you should deploy your app.
 
 ### Supporting Materials

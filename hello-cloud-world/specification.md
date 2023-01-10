@@ -1,6 +1,6 @@
 # Hello Cloud World requirements
 
-By now you should have a working Flask project that you should have tested in your local machine. Awesome!
+By now you should have a working web application that you should have tested in your local machine. Awesome!
 
 Albus, your Product Owner, has done some thinking on what technologies would be best used to deploy this app.
 Here are his requirements:
