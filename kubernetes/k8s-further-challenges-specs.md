@@ -43,7 +43,7 @@ However, what happens if the pod gets deleted?
 
 - How could you keep the stream of logs open? :bulb: Perhaps you could add a flag to the command that displays the logs on the terminal.
 
-:boom: There are better ways to monitor the app(s) running on the container(s). Take a look at [Stern](https://github.com/wercker/stern).
+:boom: There are better ways to monitor the app(s) running on the container(s). Take a look at [Stern](https://github.com/stern/stern).
 
 
 ## Scalability
