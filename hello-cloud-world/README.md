@@ -48,16 +48,12 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 ### Supporting Materials
 
+- [Hello world example using Flask](https://flask.palletsprojects.com/en/2.0.x/quickstart/)
+- [Create a Dockerfile for Python](https://docs.docker.com/language/python/build-images/)
 - [Hello world example on Express](https://expressjs.com/en/starter/hello-world.html)
 - [Create a Dockerfile for Node.js](https://docs.docker.com/get-started/nodejs/build-images/)
-- [Deploying Elastic Beanstalk applications from Docker containers](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html)
-
-### Resources
-
 - [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-- [Getting Started with AWS](https://aws.amazon.com/getting-started/)
-- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
