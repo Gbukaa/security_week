@@ -31,29 +31,36 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 * **Can you use EKS to run a Kubernetes cluster on AWS?**
 * **Can you describe the main differences between running your own K8s cluster as opposed to using a Cloud service like EKS?**
 
+## Getting started
+
+To work on this week's projects, you will need to install [`kubectl`](https://kubernetes.io/docs/tasks/tools/#kubectl) and [k3d](https://k3d.io/). 
+`kubectl` is the main command line tool used to interact with Kubernetes cluster.
+k3d is a tool that allows you to run a Kubernetes cluster locally.
+
+```
+brew install kubectl k3d
+```
+
 ## Projects
 
-This week is split into two projects.
-Your coach will tell you as part of the kickoff which one you will be tackling first.
+This week is split into two projects, each taking about half of the week.
+You will be tackling them in the order below.
 
-### Running Kubernetes locally
+### Project 1: Running Kubernetes locally
 
-In this project, you will be working **in pairs** to run your own Kubernetes clusters locally using a tool called K3s.
+In this project, you will be working **in pairs** to run your own Kubernetes clusters locally using a tool called k3d.
 You will be managing all components of a Kubernetes cluster, including the control plane, manually.
 
-Your coach will either run or share a recording of the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using K3s.
-
+Your coach willshare a recording of the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using k3d.
 In pairs, you will then work on the [Kubernetes Further Challenges](k8s-further-challenges.md).
 
-### Metapod
+### Project 2: Metapod
 
 In this **team project**, you will be learning how to set up a Kubernetes cluster using AWS' Elastic Kubernetes Service (EKS). 
 
 A K8s cluster can be difficult to build, configure and get started with, which means that for some companies, having to managing their own K8s clusters is not always desirable or cost-effective. 
 So there are a bunch of solutions provided out there that fully manage the Kubernetes control plane.
 EKS is one of them.
-
-EKS is a managed service that simplifies running K8s clusters on AWS. You don't need to install or operate your own K8s control plane or worker nodes. 
 
 > :warning: **Important:** This project is designed to be worked on as a team. Resource limitations on AWS mean that you will only be able to start one Kubernetes cluster per team! Make sure you work together on a single cluster.
 
