@@ -1,7 +1,5 @@
 # Course Outline
 
-***Please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 - Week 1: [Hello Cloud World!](https://github.com/makersacademy/devops-course/blob/main/hello-cloud-world/)
 - Week 2: [Serverless CI-CD](https://github.com/makersacademy/devops-course/blob/main/serverless-cicd/)
 - Week 3: [Acebook on AWS](https://github.com/makersacademy/devops-course/blob/main/acebook-on-aws/)

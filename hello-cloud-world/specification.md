@@ -108,7 +108,7 @@ For example, you could try containerising and deploying an app you've built prev
 - [Getting Started with AWS - Module 3: Set Up the AWS CLI](https://aws.amazon.com/getting-started/guides/setup-environment/module-three/)
 - [Getting started using Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html)
 - [Deploying Elastic Beanstalk applications from Docker containers](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html)
-- [Elastic Beanstalk Commmand Line Interface](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html)
+- [Elastic Beanstalk Command Line Interface](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html)
 - [Elastic Beanstalk: application source bundles](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/applications-sourcebundle.html)
 - [Elastic Beanstalk: Docker configuration](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/single-container-docker-configuration.html)
 

@@ -51,7 +51,7 @@ You will be tackling them in the order below.
 In this project, you will be working **in pairs** to run your own Kubernetes clusters locally using a tool called k3d.
 You will be managing all components of a Kubernetes cluster, including the control plane, manually.
 
-Your coach willshare a recording of the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using k3d.
+Your coach will share a recording of the [Running Kubernetes locally workshop](/workshops/week-5/running_k8s_locally.md), which will introduce you to using k3d.
 In pairs, you will then work on the [Kubernetes Further Challenges](k8s-further-challenges.md).
 
 ### Project 2: Metapod
