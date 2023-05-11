@@ -58,3 +58,12 @@ Now that you've seen a very high-level overview of a Kubernetes cluster, let's l
 - [Kubernetes concepts](https://kubernetes.io/docs/concepts/)
 - [Kubernetes components](https://kubernetes.io/docs/concepts/overview/components/)
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/alternate_intro_to_container_orchestration.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/alternate_intro_to_container_orchestration.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/alternate_intro_to_container_orchestration.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/alternate_intro_to_container_orchestration.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=workshops/week-5/alternate_intro_to_container_orchestration.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
