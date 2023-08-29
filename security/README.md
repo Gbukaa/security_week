@@ -1,77 +1,63 @@
-# Securing Cloud Applications
+# Security
 
-## Kick-off
+_Coaching this? Read the coach guidance
+[here.](https://github.com/makersacademy/slug/blob/main/materials/universe/devops/6_security/HOW_TO_COACH.x.md)_
 
-1. We'll discuss the important things for the week
-2. We'll have a short Q&A
-3. You'll get into your teams and start with the [project for this week](https://github.com/makersacademy/insecure-acebook)
+Cloud engineers deploy software so it can be used. A deployed application is likely to have security vulnerabilities, which could be exploited by attackers to alter the behaviour of your application, corrupt or steal data, or worse. If that happens — in the best case, your company could lose some data or money. In the worst case, your company will make the news.
 
-## Overview of the week
+In this module, you will learn to start looking at software having security in mind, how to uncover potential security flaws, and how to prevent or fix them.
 
-- You'll work in teams to apply security improvements to an existing application using SAST and DAST tools
-- There will be a session about Threat Modelling (TM)
-- You'll work in teams to apply TM to different scenarios presented
-- There will be a session on Friday to go through the TM challenges
-- You'll organise your own work based on the goals for the week
-- There will be a retro on Friday
+## Learning objectives
 
-## Goals for the week
+ * Explain the importance of security and its implications
+ * Use SAST and DAST tools to uncover security risks
+ * Use the practice of Threat Modelling to uncover security risks in a deployed application
 
-You are already familiar with these questions, but it's important to bear them in mind:
+## Narrative
 
-* Are you having fun?
+You and your peers just joined Poochie Pals. They run a web platform to connect pet owners with pet-sitters, so they can look after pets when people go away for holiday or work.
 
-* Are you a better DevOps engineer than you were yesterday?
+You've just learned that a few months ago, a group of attackers managed to exploit several security flaws in the website and got access to the database. User data was corrupted or even deleted, and the website was down for hours — leading a lot of users to complain on social media or contact customer support.
 
-By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
+After this incident, management promised some time to engineering teams so they can work to improve security and prevent this to happen again. However, the team is already under pressure to release a new version of the website really soon.
 
-* **Do I have security in mind when working with applications and incorporating best DevOps practices?**
-* **Can I see the benefits of SAST and DAST tools and then incorporate these into a project?**
-* **Am I able to get into the shoes of an attacker?**
-* **Do I understand the benefits of applying Threat Modelling practices early on within the SDLC?**
-* **Am I more proactive now when it comes to raising security concerns?**
-* **Do I have a better understanding now of what the security responsibilities of companies and cloud providers are?**
+Your job this week is to investigate these new features, and find potential security issues, before everything gets released.
 
-## Security: Who should care?
+## Phase 1 - Security bites
 
-Short and long answer: Everyone should care!
+<!-- OMITTED -->
 
-**Security of the Cloud vs Security in the Cloud**
-- :question: What is the difference between these two?
-- :question: Who is responsible for meeting each of these two?
+<!-- OMITTED -->
 
-## SAST (Static Application Security Testing)
+First, you'll need to learn a bit about security — potential vulnerabilities in a codebase, but also in cloud networks configuration.
 
-Also referred to as *Source Code Analysis Tools*.
+1. [Explore common vulnerabilities](./vulnerabilities_project) in a codebase
+2. [Video introduction to security groups in AWS](https://www.youtube.com/watch?v=wUb6OgAXDpM) and why they're useful
+ 
+## Phase 2 - Projects
 
-- :question: What is SAST?
-- :question: How can we leverage the use of such tools to spot security concerns?
-- :question: What could be some of their weaknesses?
+1. [Poochie Pals Codebase](./projects/01_codebase.md), in which you'll explore security flaws in code.
+2. [Poochie Pals Deployed](./projects/02_deployment.md), in which you'll investigate security flaws in a deployed cloud setup.
+3. [Poochie Pals payment page](./projects/03_challenge.md), in which you'll apply a collaborative process called Threat Modelling.
 
-## DAST (Dynamic Application Security Testing)
+## Phase 3 - Solo project
 
-Also referred to as *Vulnerability Scanning Tools*.
+Work on this project individually.
 
-- :question: What is DAST?
-- :question: How can we leverage the use of such tools to spot security concerns?
-- :question: What could be some of their weaknesses?
+Using all of the tools and techniques you learned so far, investigate [this login form application](./solo_project/login-form/) for security issues and fix them in the code. 
 
-## Insecure Acebook
+[Then, submit an archive of the fixed codebase, using this link]((https://airtable.com/appJ1wvInmFyFFYlN/shrvo9ePjlwnaiLv5?prefill_Item=ce_security_03)). Include a document listing of the different problems you found, and how you've approached them.
 
-You are going to work in teams now! Fork [this repository](https://github.com/makersacademy/insecure-acebook) and get started :unlock:
+## Extension work
 
-### Resources
-- [AWS Cloud Security](https://aws.amazon.com/security/?nc1=f_cc)
-- [AWS: Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
-- [SAST](https://owasp.org/www-community/Source_Code_Analysis_Tools)
-- [DAST](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+Finished all of the above? Start on the [OWASP Juice Shop project](./projects/extension.md).
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
 
 **How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😀)  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
