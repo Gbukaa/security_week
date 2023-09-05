@@ -1,12 +1,12 @@
 # Course Outline
 
-- Week 1: [Hello Cloud World!](https://github.com/makersacademy/devops-course/blob/main/hello-cloud-world/)
-- Week 2: [Serverless CI-CD](https://github.com/makersacademy/devops-course/blob/main/serverless-cicd/)
-- Week 3: [Acebook on AWS](https://github.com/makersacademy/devops-course/blob/main/acebook-on-aws/)
-- Week 4: [Terraform and Azure](https://github.com/makersacademy/devops-course/blob/main/terraform-and-azure/)
-- Week 5: [Container Orchestration](https://github.com/makersacademy/devops-course/blob/main/kubernetes)
-- Week 6: [Security](https://github.com/makersacademy/devops-course/blob/main/security)
-- Weeks 7 and 8: [Reliability](https://github.com/makersacademy/devops-course/tree/main/reliability/)
+- Week 1: [Hello Cloud World!](hello-cloud-world/)
+- Week 2: [Serverless CI-CD](serverless-cicd/)
+- Week 3: [Acebook on AWS](acebook-on-aws/)
+- Week 4: [Terraform](terraform/)
+- Week 5: [Container Orchestration](kubernetes/)
+- Week 6: [Security](security)
+- Weeks 7 and 8: [Reliability](reliability/)
 
 
 ## Tracking your learning
@@ -39,8 +39,8 @@ We warmly encourage every student at Makers Academy to introduce themselves to a
 
 ---
 
-**How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😀)  
+**How was this resource?**
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😀)
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
