@@ -1,5 +1,11 @@
 # Terraform and AWS
 
+Learn to:
+
+* Use Terraform to write infrastructure as code (IaC) for an AWS* setup
+* Explain the benefits of using IaC over manual configuration
+* Make iterations on a deployment using IaC as project complexity increases
+
 ## Kick-off
 
 1. We'll discuss about the important things for the week
@@ -23,37 +29,45 @@ You are already familiar with these questions, but it's important to bear them i
 
 By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
 
-* **Can you explain what IaC (Infrastructure as code) is?**
-* **Are you able to set an automatic workflow on GitHub Actions to manage your project infrastructure using Terraform?**
-* **Can you set up a GitHub Actions workflow to deploy your application on the existing infrastructure on AWS?**
+* **Infrastructure as Code in general:**
+  * Can you explain what the term "Infrastructure as Code" refers to?
+  * Can you explain the benefits using IaC tools and what problems they solve?
 
-### Project Setup and Sections
+* **Terraform**
+  * Can you diagram how the basic Terraform commands are used to manage Cloud infrastructure?
+    * `terraform init`
+    * `terraform plan`
+    * `terraform apply`
+    * `terraform destroy`
+  * Can you explain the following fundamental building blocks of the Terraform language?
+    * Provider
+    * Resource
+    * State
+    * References
+  * Can you write a Terraform configuration and use it to create a piece of infrastructure on AWS?
+  * Can you write a Terraform configuration and use it to create and manage the infrastructure of a web app?
+  * Can you write your Terraform code in such a way that `terraform apply` only needs to be run once to create all of the infrastructure needed for a given project (1-touch provisioning)?
 
-Initial Setup (All group members):
-1. All members of the team: [Install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli) on your machine using Homebrew.
-2. Install the AWS CLI [using Homebrew](https://formulae.brew.sh/formula/awscli). 
+* **CI-CD with Terraform**
+    * Are you able to build an automatic workflow using Github actions to manage your project infrastructure using Terraform?
+    * Can you set up a Github actions pipeline to deploy your application onto existing infrastructure on AWS?
 
-Make sure you complete the following sections in order:
+### Start Here
+
+[Getting Started with Terraform](getting_started_with_terraform.md)
 
 #### Section 1: Terraform
 
-1. One member in your group, create a **private** GitHub repository using a Terraform template for the **.gitignore** option. This repository will serve as the place from where you will manage your infrastructure for this week - Your Terraform project!
+1. One member in your group, create a **private** Github repository. This repository will serve as the place from where you will manage your infrastructure for this week - Your Terraform project!
 2. Add the other members of your group as collaborators.
-4. Make a copy for your group of this [Trello board](https://trello.com/b/MsYV9YsX/terraform-on-aws).
+3. Add a `.gitignore` file and paste in [the contents of this template `.gitignore` file for Terraform](https://github.com/github/gitignore/blob/main/Terraform.gitignore).
+4. Make a copy of this [Trello board](https://trello.com/b/cK33Iwbl) for your group.
 5. Work through the cards on the board and have fun!
 
 #### Section 2: Task Listing App (on AWS)
 
-1. One member in your group, fork the following [GitHub repository](https://github.com/makersacademy/task-listing-app).
+Feel free to read ahead and have a look at the README of the app below but only move on to actively working on this section once you've reached the "Get your app deployed" card in the Trello board linked above.
+
+1. One member in your group, fork the following [Github repository](https://github.com/makersacademy/task-listing-app).
 2. Add the other members of your group as collaborators.
 3. Work through the project README and have fun!
-
-<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
-
----
-
-**How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/README.md&prefill_Sentiment=😀)  
-Click an emoji to tell us.
-
-<!-- END GENERATED SECTION DO NOT EDIT -->
