@@ -2,7 +2,7 @@
 
 ## On application security
 
-We can start looking for security vulnerabilities by first inspecting the codebase. Some common security flaws can already be prevented by using certain patterns in the code — for example, sanitising user input to prevent [injections](https://owasp.org/Top10/A03_2021-Injection/).
+We can start looking for security vulnerabilities by first inspecting the codebase. Some common security flaws can already be prevented by using certain patterns in the code — for example, sanitising user input to prevent [injections](https://owasp.org/Top10/A03_2021-Injection/).
 
 Because we have access to the code and the internals of the application, this is called "white box" or "clear box" testing.
 
@@ -11,6 +11,8 @@ Because we have access to the code and the internals of the application, this is
 The engineering team worked on a new version of the website. They're planning to release it next week, giving you some time to investigate any security issues.
 
 So far, you've only got the codebase. It's an JavaScript / [Express](https://expressjs.com/) application.
+
+[Here is the link to the codebase](https://gitlab.com/makers-students/poochie-pals-webapp).
 
 <details>
 <summary>But... I don't know JavaScript!</summary>
@@ -25,7 +27,7 @@ Investigate the codebase and list some vulnerabilities you've found.
 ### How to search for vulnerabilities?
 
  1. Review the code and research some common problems you already know about — for example, a hardcoded secret key, or HTTP client parameters which have not been sanitised or validated.
- 2. Research the technology used by the engineering team (here, Express) — the benefits of using popular open-source libraries is that a lot of experienced engineers worked to document and prevent security issues these libraries can cause when misconfigured. [Here's an example of Google results for searching "Common security vulnerabilities Python Django"](https://www.google.com/search?q=common+security+vulnerabilities+python+django)
+ 2. Research the technology used by the engineering team (here, Express) — the benefits of using popular open-source libraries is that a lot of experienced engineers worked to document and prevent security issues these libraries can cause when badly configured. [Here's an example of Google results for searching "Common security vulnerabilities Python Django"](https://www.google.com/search?q=common+security+vulnerabilities+python+django)
  3. Use an automated SAST tool for the language and technology you're working with, such as Bearer (see below).
 
 #### Using Bearer
@@ -59,7 +61,7 @@ Your team will now work on investigating these vulnerabilities in a deployed app
 ---
 
 **How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/projects/01_codebase.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/projects/01_codebase.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/projects/01_codebase.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/projects/01_codebase.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/projects/01_codebase.md&prefill_Sentiment=😀)  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2Fprojects%2F01_codebase.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2Fprojects%2F01_codebase.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2Fprojects%2F01_codebase.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2Fprojects%2F01_codebase.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2Fprojects%2F01_codebase.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
