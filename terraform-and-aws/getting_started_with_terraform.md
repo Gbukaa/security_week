@@ -88,3 +88,12 @@ The written docs use `backend "remote" { ... }` and the video uses `cloud { ... 
 
 There are quite a few options for storing Terraform state in the cloud. In this week's main challenge, you'll use a [S3 bucket](https://developer.hashicorp.com/terraform/language/settings/backends/s3).
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/getting_started_with_terraform.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/getting_started_with_terraform.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/getting_started_with_terraform.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/getting_started_with_terraform.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=terraform-and-aws/getting_started_with_terraform.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

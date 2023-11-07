@@ -60,4 +60,12 @@ Overall, Express makes it easier to build and maintain web applications in Node.
 
 To summarise, Node.js allows you to run JavaScript on the server side, and npm makes it easy to install and manage packages of code that you can use in your Node.js projects. Together, they provide a powerful platform for building server-side applications in JavaScript. Express is one of the popular web application frameworks built on this platform.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=pills/intro_javascript_webapps.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=pills/intro_javascript_webapps.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=pills/intro_javascript_webapps.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=pills/intro_javascript_webapps.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=pills/intro_javascript_webapps.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
