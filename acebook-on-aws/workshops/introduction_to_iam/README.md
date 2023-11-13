@@ -3,7 +3,7 @@
 Learn to:
   * Explain and understand the difference between users, roles and policies
   * Use a custom policy to allow or deny specific actions
-  * Investigate and fix broken permissions 
+  * Investigate and fix broken permissions
 
 ## Introduction
 
@@ -43,9 +43,10 @@ Is it Severus? Is it you (the group)? Or both?
 
 [Find your user in the IAM console](https://us-east-1.console.aws.amazon.com/iamv2/home#/users).
 
-Then, attach a new policy to your user which will deny the action of terminating instances. 
+Then, attach a new policy to your user which will deny the action of terminating instances.
 
 You know it worked if you can run a new instance in EC2, but are not able to terminate it. (You should get an error message `Failed to terminate an instance: You are not authorized to perform this operation.)`
+
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
