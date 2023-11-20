@@ -3,7 +3,7 @@
 - Week 1: [Hello Cloud World!](hello-cloud-world/)
 - Week 2: [Serverless CI-CD](serverless-cicd/)
 - Week 3: [Acebook on AWS](acebook-on-aws/)
-- Week 4: [Terraform](terraform/)
+- Week 4: [Terraform](terraform-and-aws/)
 - Week 5: [Container Orchestration](kubernetes/)
 - Week 6: [Security](security)
 - Weeks 7 and 8: [Reliability](reliability/)
@@ -39,8 +39,8 @@ We warmly encourage every student at Makers Academy to introduce themselves to a
 
 ---
 
-**How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😀)  
+**How was this resource?**
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=course_outline.md&prefill_Sentiment=😀)
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
