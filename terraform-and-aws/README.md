@@ -10,7 +10,7 @@ Learn to:
 
 1. We'll discuss about the important things for the week
 2. We'll have a short Q&A
-3. You'll get into your teams and run through the [project tasks](#project-setup-and-sections)
+3. You'll get into your teams and run through the [project tasks](#start-here)
 
 ## Project overview
 
