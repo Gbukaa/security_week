@@ -33,7 +33,7 @@ First, you'll need to learn a bit about security — potential vulnerabilities i
 
 1. [Explore common vulnerabilities](./vulnerabilities_project) in a codebase
 2. [Video introduction to security groups in AWS](https://www.youtube.com/watch?v=wUb6OgAXDpM) and why they're useful
- 
+
 ## Phase 2 - Projects
 
 1. [Poochie Pals Codebase](./projects/01_codebase.md), in which you'll explore security flaws in code.
@@ -44,9 +44,9 @@ First, you'll need to learn a bit about security — potential vulnerabilities i
 
 Work on this project individually.
 
-Using all of the tools and techniques you learned so far, investigate [this login form application](./solo_project/login-form/) for security issues and fix them in the code. 
+Using all of the tools and techniques you learned so far, investigate [this login form application](./solo_project/login-form/) for security issues and fix them in the code.
 
-[Then, submit an archive of the fixed codebase, using this link]((https://airtable.com/appJ1wvInmFyFFYlN/shrvo9ePjlwnaiLv5?prefill_Item=ce_security_03)). Include a document listing of the different problems you found, and how you've approached them.
+[Then, submit an archive of the fixed codebase, using this link](https://airtable.com/appJ1wvInmFyFFYlN/shrvo9ePjlwnaiLv5?prefill_Item=ce_security_03). Include a document listing of the different problems you found, and how you've approached them.
 
 ## Extension work
 
@@ -57,7 +57,7 @@ Finished all of the above? Start on the [OWASP Juice Shop project](./projects/ex
 ---
 
 **How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=devops-course&prefill_File=security/README.md&prefill_Sentiment=😀)  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fdevops-course&prefill_File=security%2FREADME.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
