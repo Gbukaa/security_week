@@ -68,7 +68,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 Feel free to read ahead and have a look at the README of the app below but only move on to actively working on this section once you've reached the "Get your app deployed" card in the Trello board linked above.
 
-1. One member in your group, fork the following [Github repository](https://github.com/makersacademy/task-listing-app).
+1. One member in your group, fork the following [Github repository](https://github.com/makersacademy/task-listing-app-aws).
 2. Add the other members of your group as collaborators.
 3. Work through the project README and have fun!
 
