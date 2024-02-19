@@ -61,7 +61,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 1. One member in your group, create a **private** Github repository. This repository will serve as the place from where you will manage your infrastructure for this week - Your Terraform project!
 2. Add the other members of your group as collaborators.
 3. Add a `.gitignore` file and paste in [the contents of this template `.gitignore` file for Terraform](https://github.com/github/gitignore/blob/main/Terraform.gitignore).
-4. Make a copy of this [Trello board](https://trello.com/b/lW34k5Wp/terraform-github) for your group.
+4. Make a copy of this [Trello board](https://trello.com/b/oY4X5pkc/terraform-github) for your group.
 5. Work through the cards on the board and have fun!
 
 #### Section 2: Task Listing App (on AWS)
